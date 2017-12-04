@@ -1,6 +1,8 @@
 # Powerful-Python
 Interactive tutorial of Python programming language for beginners
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Installation
 Install Jupyter Notebook from this [link](http://jupyter.readthedocs.io/en/latest/install.html).
 
