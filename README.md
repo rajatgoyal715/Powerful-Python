@@ -1,4 +1,4 @@
-# Powerful-Pythony
+# Powerful-Python
 Interactive tutorial of Python programming language for beginners
 
 ## Installation
