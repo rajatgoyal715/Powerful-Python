@@ -5,24 +5,70 @@ Interactive tutorial of Python programming language for beginners
 
 ## Installation
 1. Install Jupyter Notebook from this [link](http://jupyter.readthedocs.io/en/latest/install.html).
-2. 
 
-## Contents of Notebook
+## Table of Contents
 
-- [Basics](#Basics)
-- [Variables](#Variables)
-	- [Strings](#Strings)
-	- [Lists](#Lists)
-- [Loops](localhost:8888/notebooks/Notebook.ipynb#Loops)
-- [Flow Control](localhost:8888/notebooks/Notebook.ipynb#Flow-Control)
-- [Comments](localhost:8888/notebooks/Notebook.ipynb#Comments)
-- [Functions](localhost:8888/notebooks/Notebook.ipynb#Functions)
-- [Modules](#Modules)
-- [Exception](#Exception)
-- [Classes and Objects](#)
-- [Inheritance](#Inheritance)
-- [Threading](#Threading)
-- [Bitwise Operators](#Bitwise\ Operators)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Welcome to Python](#welcome-to-python)
+- [Download and Installation](#download-and-installation)
+- [Basics](#basics)
+- [Input/Output](#inputoutput)
+- [Variables](#variables)
+  - [Integers](#integers)
+  - [Strings](#strings)
+  - [Characters](#characters)
+  - [Lists](#lists)
+  - [Sets](#sets)
+  - [Dictionaries](#dictionaries)
+- [Loops](#loops)
+  - [If](#if)
+  - [If-Else](#if-else)
+  - [If - Else If - Else](#if---else-if---else)
+  - [For](#for)
+  - [Range](#range)
+  - [While](#while)
+- [Flow Control](#flow-control)
+  - [Break](#break)
+  - [Continue](#continue)
+- [Comments](#comments)
+  - [Single Line](#single-line)
+  - [Multi Line](#multi-line)
+- [Functions](#functions)
+  - [Parameters](#parameters)
+  - [Return Values](#return-values)
+  - [Variable Scope](#variable-scope)
+  - [Default Arguments](#default-arguments)
+  - [Keyword Arguments](#keyword-arguments)
+  - [Flexible Number of Arguments](#flexible-number-of-arguments)
+  - [Unpacking Arguments](#unpacking-arguments)
+- [Modules](#modules)
+  - [Download an image from the web](#download-an-image-from-the-web)
+  - [Read and write files](#read-and-write-files)
+- [Exception](#exception)
+- [Classes and Objects](#classes-and-objects)
+  - [init function](#init-function)
+  - [Class Variables vs Instance Variables](#class-variables-vs-instance-variables)
+- [Inheritance](#inheritance)
+  - [Overriding](#overriding)
+- [Multiple Inheritance](#multiple-inheritance)
+- [Threading](#threading)
+  - [Unpacking Lists](#unpacking-lists)
+  - [Zip function](#zip-function)
+  - [Lambda function](#lambda-function)
+  - [Min, Max and Sorting Dictionaries](#min-max-and-sorting-dictionaries)
+  - [Struct](#struct)
+  - [Map function](#map-function)
+- [Bitwise Operators](#bitwise-operators)
+  - [AND](#and)
+  - [OR](#or)
+  - [Left and Right Shift](#left-and-right-shift)
+  - [Finding Largest or Smallest Items](#finding-largest-or-smallest-items)
+  - [Finding most frequent items](#finding-most-frequent-items)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Welcome to Python
 
