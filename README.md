@@ -14,9 +14,9 @@ Interactive tutorial of Python programming language for beginners
 
 - [Welcome to Python](#welcome-to-python)
 - [Download and Installation](#download-and-installation)
-- [Basics](#basics)
+- [Math Basics](#math-basics)
 - [Input/Output](#inputoutput)
-- [Variables](#variables)
+- [Data Types](#data-types)
   - [Integers](#integers)
   - [Strings](#strings)
   - [Characters](#characters)
@@ -70,6 +70,7 @@ Interactive tutorial of Python programming language for beginners
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
 ## Welcome to Python
 
 Python is a programming language which can be used to make computer games, cross platform softwares, website applications and much more.
@@ -81,7 +82,7 @@ Visit the offical website - https://www.python.org/
 
 
 
-## Basics
+## Math Basics
 
 
 ```python
@@ -185,7 +186,7 @@ Visit the offical website - https://www.python.org/
 
 
 ```python
-# Power
+# Exponent
 
 5 ** 3
 ```
@@ -212,7 +213,7 @@ print('Output : ' + x)
     Output : 123abc!@#
 
 
-## Variables
+## Data Types
 
 ### Integers
 

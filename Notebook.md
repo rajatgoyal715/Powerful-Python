@@ -10,7 +10,7 @@ Visit the offical website - https://www.python.org/
 
 
 
-## Basics
+## Math Basics
 
 
 ```python
@@ -114,7 +114,7 @@ Visit the offical website - https://www.python.org/
 
 
 ```python
-# Power
+# Exponent
 
 5 ** 3
 ```
@@ -141,7 +141,7 @@ print('Output : ' + x)
     Output : 123abc!@#
 
 
-## Variables
+## Data Types
 
 ### Integers
 
